@@ -27,8 +27,8 @@ O fluxo segue a lógica **ETL (Extract, Transform, Load)**:
 ### 1. Clone o repositório  
 
 ```bash
-git clone https://github.com/seu-usuario/seu-repo.git
-cd seu-repo
+git clone https://github.com/brendaschussler/Data-Pipeline-Crypto-Commodities.git
+cd Data-Pipeline-Crypto-Commodities
 ```
 
 ### 2. Crie e ative um ambiente virtual
